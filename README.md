@@ -1,2 +1,2 @@
 # docs
-All full-stack-conversation documents written and maintained by Vue, Vuepress and **[docz](https://www.docz.site/)** (this last tool is being used in the projects with multiple developers)
+All full-stack-conversation documents written and maintained by Vue and Vuepress, where Vuepress role is to allow a lot better MarkDown documents. Just being able to use **["Medium Zoom like"](https://github.com/francoischalifour/medium-zoom/tree/master/examples/react-markdown)** handling of images is quite sufficient to build the whole docs repository based on **[VuePress](https://vuepress.vuejs.org/guide/)**
